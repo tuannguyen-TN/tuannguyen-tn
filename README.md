@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan Nguyen</h1>
 <h3 align="center">A driven full stack programmer in Finland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuannguyen-tn&label=Profile%20views&color=0e75b6&style=flat" alt="tuannguyen-tn" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuannguyen-tn" alt="tuannguyen-tn" /></a> </p>
 
 - 🌱 I’m currently learning **C#, Backend Development**.
