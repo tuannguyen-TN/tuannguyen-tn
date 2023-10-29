@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuannguyen-tn" alt="tuannguyen-tn" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Backend Development**.
+- 🌱 I’m currently learning **Backend Development** with a focus on **NodeJS, PostgreSQL, and REST API**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuannguyen-TN](https://github.com/tuannguyen-TN).
 
