@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tuan Nguyen</h1>
-<h3 align="center">A driven full stack programmer in Finland</h3>
+<h3 align="center">A driven full stack programmer and ML enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuannguyen-tn" alt="tuannguyen-tn" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development** with a focus on **NodeJS, PostgreSQL, and REST API**.
+- 🌱 I specialize in Full Stack Web Development and am on my way to mastery of Machine Learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuannguyen-TN](https://github.com/tuannguyen-TN).
 
