@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tuan Nguyen</h1>
-<h3 align="center">A driven full stack programmer and ML enthusiast</h3>
+<h3 align="center">A driven full stack programmer and AI enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuannguyen-tn" alt="tuannguyen-tn" /></a> </p>
-
-- 🌱 I specialize in Full Stack Web Development and am on my way to mastery of Machine Learning.
+- 🌱 I specialize in Full Stack Web Development, especially Backend Engineering and AI Integration.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuannguyen-TN](https://github.com/tuannguyen-TN).
 
-- 📫 How to reach me **tuannguyen221101@gmail.com**.
-
-- 📄 Know about my experiences [https://tuannguyen-tn.github.io/resume.pdf](https://tuannguyen-tn.github.io/resume.pdf).
+- 📫 How to reach me **nguyen.t.tuan.work@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
